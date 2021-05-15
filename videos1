@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+  </head>
+  <h1>My Favourite Videos</h1>
+    <input type="text" placeholder="Search..">
+    <h3>Dolby Canyon</h3>
+    </head>
+    <body>
+      <video width="300" controls>
+        <source src="Video/dolbycanyon.mp4" type="video/mp4">
+      </video>
+      <hr>
+      <h3>Ocean with Audio</h3>
+      <head>
+        <body>
+          <video width="300" controls>
+            <source src="Video/ocean_with_audio.mp4" type="video/mp4">
+          </video>
+        </body>
+      </head>
+      <hr>
+      <h3>Animation</h3>
+      <head>
+        <body>
+          <video width="300" controls>
+            <source src="Video/sample_video.mp4" type="video/mp4">
+          </video>
+        </body>
+      </head>
+</body>
+</html>
